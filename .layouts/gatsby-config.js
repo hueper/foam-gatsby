@@ -1,5 +1,5 @@
 const path = require("path");
-const pathPrefix = "/foam-gatsby";
+const pathPrefix = "/";
 // Change me
 const siteMetadata = {
   title: "Foam Template for Gatsby Theme Primer Wiki",
