@@ -3,7 +3,7 @@ const pathPrefix = "/";
 // Change me
 const siteMetadata = {
   title: "Foam Template for Gatsby Theme Primer Wiki",
-  shortName: "Wiki",
+  shortName: "Foam Wiki",
   description:
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
   twitterName: "moritzhueper",
