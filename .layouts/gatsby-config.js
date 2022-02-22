@@ -8,7 +8,7 @@ const siteMetadata = {
     "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
   twitterName: "moritzhueper",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "http://hueper.github.io",
+  siteUrl: "http://hueper.github.io/foam-gatsby",
 };
 module.exports = {
   siteMetadata,
