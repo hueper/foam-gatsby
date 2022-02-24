@@ -6,6 +6,7 @@
   "scripts": {
     "develop": "gatsby develop -H 0.0.0.0",
     "start": "gatsby develop -H 0.0.0.0",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "clean": "gatsby clean",
     "serve": "gatsby serve",
