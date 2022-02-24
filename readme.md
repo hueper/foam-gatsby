@@ -8,6 +8,9 @@ tags:
 
 **👋Another Foam template that use [gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki), Welcome to your new Foam Knowledge Base!**
 
+## Test
+
+
 ## Examples
 
 - [Demo](https://demo-wiki.owenyoung.com) - ([Source](https://github.com/theowenyoung/gatsby-theme-primer-wiki/tree/main/example))
