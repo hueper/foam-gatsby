@@ -34,7 +34,7 @@ jobs:
         run: npx foam janitor $(dirname "$PWD")
         working-directory: .layouts
       - name: Build Site
-        run: npm run build
+        run: npm run deploy
         working-directory: .layouts
 
       - name: Deploy
