@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://hueper.github.io/foam-gatsby/sitemap/sitemap-index.xml
+Sitemap: http://hueper.github.io/sitemap/sitemap-index.xml
 Host: hueper.github.io
